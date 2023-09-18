@@ -63,20 +63,6 @@ int main()
 
     fclose(fPtr);
 
-/*
-//Τύπωμα Μητρώου Γετνίασης(optional)
-
-   printf("\n\n");
-
-   for(i = 1; i < V+1; i++)
-        {
-            for(j = 1; j < V+1; j++)
-            {
-                printf("%d ", arr[i][j]);
-            }
-            printf("\n");
-        }
-*/
 
 
 //Αρχικοποίηση ουράς S
@@ -140,12 +126,6 @@ int main()
         }
     }
 
-/*//Τύπωμα Βαθμών Κόμβων(optional)
-
-    printf("\n\nDegrees of nodes are:\n");
-    for(i=0;i<V;i++){
-        printf("%d ", degrees[i]);
-    }
 
 */
     printf( "\n");
