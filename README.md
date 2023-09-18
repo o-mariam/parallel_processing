@@ -1,7 +1,3 @@
-Got it. Let's simplify the README for a single-file implementation.
-
----
-
 # Parallel Kahn's Algorithm for Topological Sorting
 
 This repository houses a parallelized version of Kahn’s algorithm for topological sorting. By leveraging the power of multi-core processors and parallel processing techniques, we aim to attain substantial speed-ups in the sorting procedure compared to the conventional serial algorithm.
